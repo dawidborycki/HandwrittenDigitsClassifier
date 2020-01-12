@@ -8,5 +8,12 @@ Eventually, you can skip the training and run Inference.py. This will load the t
 ```python
 testImageIndex = 100 # or whatever between 0 and 9999. Note that there are 10,000 images in the test dataset
 ```
-## Screenshot
+## Screenshots
+![Figure](/images/Model-structure.png)
+Figure 1. Structure of the model
+
+![Figure](/images/Model-training.png)
+Figure 2. Training the model
+
 ![Figure](/images/Recognition.png)
+Figure 3. Recognition result
