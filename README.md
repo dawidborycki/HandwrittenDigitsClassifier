@@ -16,4 +16,5 @@ Figure 1. Structure of the model
 Figure 2. Training the model
 
 ![Figure](/images/Recognition.png)
+
 Figure 3. Recognition result
